@@ -4,10 +4,12 @@
 🎯 Apaixonado por tecnologia, análise de dados e desenvolvimento web. 
 Atualmente, estou aprimorando minhas habilidades em **Python, Power BI, Sql e PostgreSql**. <br>
 📌 Aqui você encontrará projetos que desenvolvi para estudos e desafios práticos. 
-## 🚀 Tecnologias & Ferramentas:
-🧠 **Ciência de Dados**: Python, Pandas, NumPy, Matplotlib, Power BI,Sql e PostgreSql
-🌐 **Front-End**: HTML, CSS, JavaScript  
-⚡ **Outras**: Git, GitHub  
+## 🚀 Habilidades Técnicas:
+- 🔧 Python (Pandas, NumPy, Matplotlib, Seaborn)
+- 🔧 SQL (MySQL, PostgreSQL)  | Power BI (DAX, Power Query)
+- 🧠 ETL | Web Scraping | Análise de Dados | Modelagem de Dados
+- ⚡ Git | Jupyter Notebook
+
 ## 📫 Onde me encontrar 
 🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario) <br>
 📧 **E-mail:** samuelferreira1ssf1@icloud.com -
